@@ -3,7 +3,7 @@ package arep.lab3;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
-public class Main {
+public class Expose {
     public static void main(String[] args) throws ClassNotFoundException, NoSuchMethodException, InvocationTargetException, IllegalAccessException {
         Class c = Class.forName(args[0]);
         Class[] parametersType = {String[].class};
