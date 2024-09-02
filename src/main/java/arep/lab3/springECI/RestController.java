@@ -1,4 +1,4 @@
-package arep.lab3;
+package arep.lab3.springECI;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

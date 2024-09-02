@@ -1,4 +1,4 @@
-package arep.lab3;
+package arep.lab3.springECI;
 
 @RestController
 public class HelloService {
@@ -20,5 +20,10 @@ public class HelloService {
     @GetMapping("/ARSW")
     public static String arsw() {
         return "Hello World";
+    }
+
+    @RequestMapping("/")
+    public String index(){
+        return "<h1>Greetings from Spring Boot!</h1>";
     }
 }

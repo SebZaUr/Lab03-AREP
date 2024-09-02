@@ -1,4 +1,4 @@
-package arep.lab3;
+package arep.lab3.springECI;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
