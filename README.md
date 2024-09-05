@@ -50,7 +50,7 @@ The other is a web application made with JavaScript that allows me to filter the
 * Run this command:
 
     ```bash
-    java -cp target/classe arep.lab3.SpringECI
+    java -cp target/classes arep.lab3.SpringECI
     ```
 
 The project is now running. To open it, click on this link in your browser: [ECIELECTIVAS](http://localhost:8080/electivas).
