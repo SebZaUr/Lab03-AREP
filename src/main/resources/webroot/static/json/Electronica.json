@@ -1,0 +1,74 @@
+[
+  {
+    "nombre": "Métodos Computacionales en Ingeniería",
+    "codigo": "MCEI_M",
+    "creditos": 4,
+    "tipo": ["CO", "ETO"],
+    "prerrequisitos": ["PRYE"],
+    "area": "Maestría en Ingeniería Electrónica",
+    "departamento": "Maestría en Ingeniería Electrónica"
+  },
+  {
+    "nombre": "Matemáticas avanzadas",
+    "codigo": "MAAV_M",
+    "creditos": 4,
+    "tipo": ["CO", "ETO"],
+    "prerrequisitos": ["PRYE"],
+    "area": "Maestría en Ingeniería Electrónica",
+    "departamento": "Maestría en Ingeniería Electrónica"
+  },
+  {
+    "nombre": "Control No Lineal",
+    "codigo": "CONL_M",
+    "creditos": 4,
+    "tipo": ["CO", "ETO"],
+    "prerrequisitos": ["CTR2"],
+    "area": "Robótica y Automatización",
+    "departamento": "Maestría en Ingeniería Electrónica"
+  },
+  {
+    "nombre": "Automatización Avanzada",
+    "codigo": "AUAV_M",
+    "creditos": 4,
+    "tipo": ["CO", "ETO"],
+    "prerrequisitos": ["ATIN"],
+    "area": "Robótica y Automatización",
+    "departamento": "Maestría en Ingeniería Electrónica"
+  },
+  {
+    "nombre": "Sistemas Operativos en Tiempo Real",
+    "codigo": "SOTR_M",
+    "creditos": 4,
+    "tipo": ["CO", "ETO"],
+    "prerrequisitos": ["MPEI"],
+    "area": "Diseño Electrónico",
+    "departamento": "Maestría en Ingeniería Electrónica"
+  },
+  {
+    "nombre": "Sistemas de Radiodifusión Digital",
+    "codigo": "SROD_M",
+    "creditos": 4,
+    "tipo": ["CO", "ETO"],
+    "prerrequisitos": ["SYSD"],
+    "area": "Telecomunicaciones",
+    "departamento": "Maestría en Ingeniería Electrónica"
+  },
+  {
+    "nombre": "Internet de las cosas, convergencia y seguridad",
+    "codigo": "ICCS",
+    "creditos": 3,
+    "tipo": "ETO",
+    "prerrequisitos": ["CAYD"],
+    "area": "Telecomunicaciones",
+    "departamento": "Ingeniería Electrónica"
+  },
+  {
+    "nombre": "Inteligencia Artificial de Borde",
+    "codigo": "IABO_M",
+    "creditos": 4,
+    "tipo": ["CO", "ETO"],
+    "prerrequisitos": ["MPEI"],
+    "area": ["Robótica y Automatización", "Diseño Electrónico"],
+    "departamento": "Maestría en Ingeniería Electrónica"
+  }
+]

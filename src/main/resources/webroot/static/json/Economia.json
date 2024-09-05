@@ -1,0 +1,236 @@
+[
+    {
+        "nombre": "Historia Económica del Mundo",
+        "codigo": "HEMU",
+        "creditos": 3,
+        "tipo": "TOE/ETO",
+        "prerrequisitos": ["MECI", "ECM1", "MAC3"],
+        "area": "Economía",
+        "departamento": "Economía"
+    },
+    {
+        "nombre": "Gerencia Financiera",
+        "codigo": "GFIN",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": ["FCFI"],
+        "area": "Finanzas",
+        "departamento": "Economía"
+    },
+    {
+        "nombre": "Gestión de portafolios de inversión",
+        "codigo": "GPIN",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": ["FCFI"],
+        "area": "Finanzas",
+        "departamento": "Economía"
+    },
+    {
+        "nombre": "Matemática Financiera",
+        "codigo": "MAFI",
+        "creditos": 3,
+        "tipo": "TOE/ETO",
+        "prerrequisitos": ["FCFI"],
+        "area": "Finanzas",
+        "departamento": "Economía"
+    },
+    {
+        "nombre": "Comercialización de Energía",
+        "codigo": "COME",
+        "creditos": 3,
+        "tipo": "EPF",
+        "prerrequisitos": ["MI2M"],
+        "area": "Recursos energéticos",
+        "departamento": "Ingeniería Eléctrica"
+    },
+    {
+        "nombre": "Recursos Energéticos",
+        "codigo": "RCEN",
+        "creditos": 3,
+        "tipo": "EPF",
+        "prerrequisitos": ["MI2M"],
+        "area": "Recursos energéticos",
+        "departamento": "Ingeniería Eléctrica"
+    },
+    {
+        "nombre": "Regulación de Mercados Eléctricos",
+        "codigo": "REME_M",
+        "creditos": 3,
+        "tipo": "EPF",
+        "prerrequisitos": ["PRYE"],
+        "area": "Recursos energéticos",
+        "departamento": "Ingeniería Eléctrica"
+    },
+    {
+        "nombre": "Teoría de las Organizaciones",
+        "codigo": "TORG",
+        "creditos": 3,
+        "tipo": "EPF",
+        "prerrequisitos": ["FCFI"],
+        "area": "Administración",
+        "departamento": "Administración de Empresas"
+    },
+    {
+        "nombre": "Pensamiento Estratégico",
+        "codigo": "PESE",
+        "creditos": 3,
+        "tipo": "EPF",
+        "prerrequisitos": ["FCFI"],
+        "area": "Administración",
+        "departamento": "Administración de Empresas"
+    },
+    {
+        "nombre": "Modelos Estratégicos y Prospectiva",
+        "codigo": "MESP",
+        "creditos": 3,
+        "tipo": "EPF",
+        "prerrequisitos": ["FCFI"],
+        "area": "Administración",
+        "departamento": "Administración de Empresas"
+    },
+    {
+        "nombre": "Teoría del interés",
+        "codigo": "TINT_M",
+        "creditos": 3,
+        "tipo": "EPF",
+        "prerrequisitos": ["ADEI"],
+        "area": "Actuaría",
+        "departamento": "Matemáticas"
+    },
+    {
+        "nombre": "Contingencias de Vida 1",
+        "codigo": "CON1_M",
+        "creditos": 3,
+        "tipo": "EPF",
+        "prerrequisitos": ["PROA_M", "TINT_M"],
+        "area": "Actuaría",
+        "departamento": "Matemáticas"
+    },
+    {
+        "nombre": "Fundamentos en Competencias Personales para Líderes de Proyecto",
+        "codigo": "FCLP",
+        "creditos": 3,
+        "tipo": "EPF",
+        "prerrequisitos": ["FDGP"],
+        "area": "Gerencia de proyectos",
+        "departamento": "Unidad de proyectos"
+    },
+    {
+        "nombre": "Herramientas para la gestión de proyectos",
+        "codigo": "HHGP",
+        "creditos": 3,
+        "tipo": "EPF",
+        "prerrequisitos": ["FDGP"],
+        "area": "Gerencia de proyectos",
+        "departamento": "Unidad de proyectos"
+    },
+    {
+        "nombre": "Agilidad Empresarial",
+        "codigo": "AGIE",
+        "creditos": 3,
+        "tipo": "EPF",
+        "prerrequisitos": ["FDGP"],
+        "area": "Gerencia de proyectos",
+        "departamento": "Unidad de proyectos"
+    },
+    {
+        "nombre": "Creatividad Tecnología e Innovación",
+        "codigo": "CRTI",
+        "creditos": 3,
+        "tipo": "EPF",
+        "prerrequisitos": ["FUEC"],
+        "area": "Emprendimiento de base tecnológica",
+        "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+    },
+    {
+        "nombre": "Iniciativa de Modelos de Negocio",
+        "codigo": "IMON",
+        "creditos": 3,
+        "tipo": "EPF",
+        "prerrequisitos": ["FUEC"],
+        "area": "Emprendimiento de base tecnológica",
+        "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+    },
+    {
+        "nombre": "Formalización de Empresa",
+        "codigo": "FORE",
+        "creditos": 3,
+        "tipo": "EPF",
+        "prerrequisitos": ["FCFI"],
+        "area": "Emprendimiento de base tecnológica",
+        "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+    },
+    {
+        "nombre": "Big Data",
+        "codigo": "BDAT_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["PRYE"],
+        "area": "Analytics",
+        "departamento": "Maestría en Ciencia de Datos"
+    },
+    {
+        "nombre": "Gestión de Datos",
+        "codigo": "GDAT_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["PRYE"],
+        "area": "Analytics",
+        "departamento": "Maestría en Ciencia de Datos"
+    },
+    {
+        "nombre": "Inteligencia de Negocios",
+        "codigo": "INNE_M",
+        "creditos": 4,
+        "tipo": "CO",
+        "prerrequisitos": ["PRYE"],
+        "area": "Maestría en Gestión de Información",
+        "departamento": "Maestría en Gestión de Información"
+    },
+    {
+        "nombre": "Blockchain",
+        "codigo": "BCHN_M",
+        "creditos": 2,
+        "tipo": "CO",
+        "prerrequisitos": ["PRYE"],
+        "area": "Maestría en Gestión de Información",
+        "departamento": "Maestría en Gestión de Información"
+    },
+    {
+        "nombre": "Analítica Digital",
+        "codigo": "ANDI_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["PRYE"],
+        "area": "Maestría en Gestión de Información",
+        "departamento": "Maestría en Gestión de Información"
+    },
+    {
+        "nombre": "Probabilidad para Actuaría",
+        "codigo": "PROA_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["PRYE"],
+        "area": "Actuaría",
+        "departamento": "Maestría en Ciencias Actuariales"
+    },
+    {
+        "nombre": "Teoría de Inversión y Portafolio",
+        "codigo": "TIYP_E",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["FCFI"],
+        "area": "Especialización en Economía para Ingenieros",
+        "departamento": "Especialización en Economía para Ingenieros"
+    },
+    {
+        "nombre": "Estrategia y Gestión de Datos",
+        "codigo": "ESGE_M",
+        "creditos": 4,
+        "tipo": "CO",
+        "prerrequisitos": ["ECM1"],
+        "area": "Especialización Estrategía, Gestión y Gobierno de datos",
+        "departamento": "Especialización Estrategía, Gestión y Gobierno de datos"
+    }
+]

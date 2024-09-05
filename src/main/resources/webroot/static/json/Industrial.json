@@ -1,0 +1,218 @@
+[
+  {
+    "nombre": "Física de Planta",
+    "codigo": "FPLA",
+    "creditos": 3,
+    "tipo": "ET0",
+    "prerrequisitos": [],
+    "area": "Gestión y Optimización de Operaciones",
+    "departamento": "CE en Gestión y Optimización de Operaciones / Ingeniería Industrial"
+  },
+  {
+    "nombre": "Servicios de Tecnología de Información en los procesos",
+    "codigo": "STIP",
+    "creditos": 3,
+    "tipo": "ET0",
+    "prerrequisitos": [],
+    "area": "Gestión de Procesos Empresariales BPM",
+    "departamento": "CE en Sistemas de Gestión / Ingeniería Industrial"
+  },
+  {
+    "nombre": "Fundamentos en Competencias Personales para Líderes de Proyecto",
+    "codigo": "FCLP",
+    "creditos": 3,
+    "tipo": "EPF/ETO",
+    "prerrequisitos": ["FDGP"],
+    "area": "Gerencia de proyectos",
+    "departamento": "Unidad de proyectos"
+  },
+  {
+    "nombre": "Herramientas para la gestión de proyectos",
+    "codigo": "HHGP",
+    "creditos": 3,
+    "tipo": "EPF/ETO",
+    "prerrequisitos": ["FDGP"],
+    "area": "Gerencia de proyectos",
+    "departamento": "Unidad de proyectos"
+  },
+  {
+    "nombre": "Agilidad empresarial",
+    "codigo": "AGIE",
+    "creditos": 3,
+    "tipo": "EPF/ETO",
+    "prerrequisitos": ["FDGP"],
+    "area": "Gerencia de proyectos",
+    "departamento": "Unidad de proyectos"
+  },
+  {
+    "nombre": "Creatividad Tecnología e Innovación",
+    "codigo": "CRTI",
+    "creditos": 3,
+    "tipo": "ETO",
+    "prerrequisitos": ["FUEC"],
+    "area": "Emprendimiento de base tecnológica",
+    "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+  },
+  {
+    "nombre": "Iniciativa de Modelos de Negocio",
+    "codigo": "IMON",
+    "creditos": 3,
+    "tipo": "ETO",
+    "prerrequisitos": ["FUEC"],
+    "area": "Emprendimiento de base tecnológica",
+    "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+  },
+  {
+    "nombre": "Formalización de Empresa",
+    "codigo": "FORE",
+    "creditos": 3,
+    "tipo": "ETO",
+    "prerrequisitos": ["FCFI"],
+    "area": "Emprendimiento de base tecnológica",
+    "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+  },
+  {
+    "nombre": "Marketing 4.0",
+    "codigo": "MKT4",
+    "creditos": 3,
+    "tipo": "ETO",
+    "prerrequisitos": ["FUEC"],
+    "area": "Emprendimiento de base tecnológica",
+    "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+  },
+  {
+    "nombre": "Gerencia Financiera",
+    "codigo": "GFIN",
+    "creditos": 3,
+    "tipo": "ETO",
+    "prerrequisitos": ["FCFI"],
+    "area": "Finanzas",
+    "departamento": "Economía"
+  },
+  {
+    "nombre": "Gestión de portafolios de inversión",
+    "codigo": "GPIN",
+    "creditos": 3,
+    "tipo": "ETO",
+    "prerrequisitos": ["FCFI"],
+    "area": "Finanzas",
+    "departamento": "Economía"
+  },
+  {
+    "nombre": "Matemática Financiera",
+    "codigo": "MAFI",
+    "creditos": 3,
+    "tipo": "TOE/ETO",
+    "prerrequisitos": ["FCFI"],
+    "area": "Finanzas",
+    "departamento": "Economía"
+  },
+  {
+    "nombre": "Big Data",
+    "codigo": "BDAT_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": ["PRYE"],
+    "area": "Analytics",
+    "departamento": "Maestría en Ciencia de Datos"
+  },
+  {
+    "nombre": "Machine Learning",
+    "codigo": "MLEA_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": ["PRYE"],
+    "area": "Analytics",
+    "departamento": "Maestría en Ciencia de Datos"
+  },
+  {
+    "nombre": "Recuperación y Reutilización de Materiales",
+    "codigo": "REMA_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": ["PROF"],
+    "area": "Materiales y Manufactura",
+    "departamento": "Maestría en Ingeniería Mecánica"
+  },
+  {
+    "nombre": "Startups y desarrollo de negocios",
+    "codigo": "SYDN",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": ["FDGP"],
+    "area": "Gerencia de proyectos",
+    "departamento": "Maestría en Desarrollo y Gestión Integral de Proyectos"
+  },
+  {
+    "nombre": "Problemas Enriquecidos de Ruteo de Vehículos",
+    "codigo": "PERV_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": ["OPDO", "AYPR"],
+    "area": "Gestión y Optimización de Operaciones",
+    "departamento": "Maestría en Ingeniería Industrial"
+  },
+  {
+    "nombre": "Caracterización avanzada de materiales",
+    "codigo": "CAVM_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": ["MATR"],
+    "area": "Materiales y Manufactura",
+    "departamento": "Maestría en Ingeniería Industrial"
+  },
+  {
+    "nombre": "Optimización de Procesos de Fabricación",
+    "codigo": "OPFA_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": ["PROF"],
+    "area": "Materiales y Manufactura",
+    "departamento": "Maestría en Ingeniería Industrial"
+  },
+  {
+    "nombre": "Gestión Ambiental",
+    "codigo": "GAMB_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": ["GCIV"],
+    "area": "Sistemas de gestión",
+    "departamento": "Maestría en Ingeniería Industrial"
+  },
+  {
+    "nombre": "Business Process Analytics",
+    "codigo": "BPAN_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": ["PEAD"],
+    "area": "Gestión de Procesos Empresariales BPM",
+    "departamento": "Maestría en Ingeniería Industrial"
+  },
+  {
+    "nombre": "Lean Management para Servicios y Organizaciones",
+    "codigo": "LMSO_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": ["PCOI", "FUEC"],
+    "area": "Gestión y Optimización de Operaciones",
+    "departamento": "Maestría en Ingeniería Industrial"
+  },
+  {
+    "nombre": "departamentoción y Control de la Producción",
+    "codigo": "PCPR_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": ["PCOI"],
+    "area": "Gestión y Optimización de Operaciones",
+    "departamento": "Maestría en Ingeniería Industrial"
+  },
+  {
+    "nombre": "departamento de Entrenamiento Lean - Six Sigma",
+    "codigo": "EL6S_M",
+    "creditos": 6,
+    "tipo": "CO",
+    "prerrequisitos": ["ETTR", "CAPP"],
+    "area": "Gestión y Optimización de Operaciones",
+    "departamento": "Maestría en Ingeniería Industrial"
+  }
+]

@@ -1,4 +1,4 @@
-package arep.lab3;
+package arep.lab3.junit;
 
 public class TestClass {
     @Test

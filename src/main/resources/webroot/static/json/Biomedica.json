@@ -1,0 +1,164 @@
+[
+        {
+        "nombre": "Robótica Médica",
+        "codigo": "RBME",
+        "creditos": 3,
+        "tipo": "ELPR",
+        "prerrequisitos": "BIOM",
+        "area": "ingenieria de la rehabilitacion",
+        "departamento": "CE en Biomedica y Biotecnologia"
+        },
+        {
+        "nombre": "Diseño de Tecnologías de Asistencia - R*",
+        "codigo": "DTDAR",
+        "creditos": 3,
+        "tipo": "ELPR",
+        "prerrequisitos": "BIOI e IFMER",
+        "area": "ingenieria de la rehabilitacion",
+        "departamento": "CE en Biomedica y Biotecnologia"
+        },
+        {
+        "nombre": "Equipología Médica II - R*",
+        "codigo": "EQM2R",
+        "creditos": 3,
+        "tipo": "ELPR",
+        "prerrequisitos": "BIOI",
+        "area": "ingenieria clinica",
+        "departamento": "CE en Biomedica y Biotecnologia"
+        },
+        {
+        "nombre": "Equipología Médica III - R*",
+        "codigo": "EQM3R",
+        "creditos": 3,
+        "tipo": "ELPR",
+        "prerrequisitos": "BIOI",
+        "area": "ingenieria clinica",
+        "departamento": "CE en Biomedica y Biotecnologia"
+        },
+        {
+        "nombre": "Diseño de Manufactura Aditiva para Aplicaciones Biomédicas",
+        "codigo": "DMAB",
+        "creditos": 3,
+        "tipo": "ELPR",
+        "prerrequisitos": "EGR1 y BIMT",
+        "area": "maestria en biomedica y biotecnologia",
+        "departamento": "CE en Biomedica y Biotecnologia"
+        },
+        {
+        "nombre": "Emprendimiento de Empresas para Ingeniería Biomédica - R*",
+        "codigo": "EMEMR",
+        "creditos": 3,
+        "tipo": "ELPR",
+        "prerrequisitos": "GADER",
+        "area": "maestria en biomedica y biotecnologia",
+        "departamento": "CE en Biomedica y Biotecnologia"
+        },
+        {
+        "nombre": "Cuerpo y Movimiento - R*",
+        "codigo": "CYMOR",
+        "creditos": 3,
+        "tipo": "ELH",
+        "prerrequisitos": "Haber presentado el examen de clasificacion de ingles de la Universidad del Rosario o de la Escuela",
+        "area": "maestria en biomedica y biotecnologia",
+        "departamento": "CE en Biomedica y Biotecnologia"
+        },
+        {
+        "nombre": "Introducción a la Musicoterapia - R*",
+        "codigo": "INMTR",
+        "creditos": 3,
+        "tipo": "ELH",
+        "prerrequisitos": "Haber presentado el examen de clasificacion de ingles de la Universidad del Rosario o de la Escuela",
+        "area": "maestria en biomedica y biotecnologia",
+        "departamento": "CE en Biomedica y Biotecnologia"
+        },
+        {
+        "nombre": "La Ciencia para la Felicidad - R*",
+        "codigo": "CIFER",
+        "creditos": 3,
+        "tipo": "ELH",
+        "prerrequisitos": "Haber presentado el examen de clasificacion de ingles de la Universidad del Rosario o de la Escuela",
+        "area": "maestria en biomedica y biotecnologia",
+        "departamento": "CE en Biomedica y Biotecnologia"
+        },
+        {
+        "nombre": "Matemática Financiera",
+        "codigo": "MAFI",
+        "creditos": 3,
+        "tipo": "ELPR",
+        "prerrequisitos": "GADER",
+        "area": "economia",
+        "departamento": ""
+        },
+        {
+        "nombre": "Gestión de portafolios de inversión",
+        "codigo": "GPIN",
+        "creditos": 3,
+        "tipo": "ELPR",
+        "prerrequisitos": "GADER",
+        "area": "economia",
+        "departamento": ""
+        },
+        {
+        "nombre": "Creatividad Tecnología e Innovación",
+        "codigo": "CRTI",
+        "creditos": 3,
+        "tipo": "ELPR",
+        "prerrequisitos": "GADER",
+        "area": "emprendimiento de base tecnologica",
+        "departamento": "C.E. Gerencia y Transformacion Empresarial / Administracion de Empresas"
+        },
+        {
+        "nombre": "Fundamentos de desarrollo y de gerencia de proyectos",
+        "codigo": "FDGP",
+        "creditos": 3,
+        "tipo": "ELPR",
+        "prerrequisitos": "GADER",
+        "area": "unidad de proyectos",
+        "departamento": ""
+        },
+        {
+        "nombre": "Inteligencia Artificial de Borde",
+        "codigo": "IABO_M",
+        "creditos": 4,
+        "tipo": "ELPR",
+        "prerrequisitos": "MPEI",
+        "area": "maestria en ingenieria electronica",
+        "departamento": ""
+        },
+        {
+        "nombre": "Machine Learning",
+        "codigo": "MLEA_M",
+        "creditos": 3,
+        "tipo": "ELPR",
+        "prerrequisitos": "SYSB",
+        "area": "procesamiento de señales e imagenes medicas",
+        "departamento": "Maestria en Ciencia de Datos"
+        },
+        {
+        "nombre": "Caracterización avanzada de materiales",
+        "codigo": "CAVM_M",
+        "creditos": 3,
+        "tipo": "ELPR",
+        "prerrequisitos": "BIMT",
+        "area": "materiales y manufactura",
+        "departamento": "Maestria en Ingenieria Industrial"
+        },
+        {
+        "nombre": "Aprendizaje automático para el procesamiento de señales e imágenes médicas",
+        "codigo": "ASIM",
+        "creditos": 3,
+        "tipo": "ELPR",
+        "prerrequisitos": "SYSB",
+        "area": "procesamiento de señales e imagenes medicas",
+        "departamento": "CE en Biomedica y Biotecnologia"
+        },
+        {
+        "nombre": "Adquisición y Procesamiento de Señales Biomédicas en Tecnologías de Borde",
+        "codigo": "APSB",
+        "creditos": 3,
+        "tipo": "ELPR",
+        "prerrequisitos": "BIOI",
+        "area": "procesamiento de señales e imagenes medicas",
+        "departamento": "CE en Biomedica y Biotecnologia"
+        }
+    ]

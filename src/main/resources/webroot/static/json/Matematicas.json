@@ -1,0 +1,227 @@
+[
+  {
+    "nombre": "Análisis de sobrevivencia",
+    "codigo": "ASOB",
+    "creditos": 3,
+    "tipo": ["EPF", "ELM", "ETO"],
+    "prerrequisitos": ["PRYE"],
+    "area": "Actuaría",
+    "departamento": "departamento de Matemáticas"
+  },
+  {
+    "nombre": "Análisis de decisiones de inversión",
+    "codigo": "ADEI",
+    "creditos": 3,
+    "tipo": ["EPF", "ELM", "ETO"],
+    "prerrequisitos": ["FCFI"],
+    "area": "Actuaría",
+    "departamento": "Administración de Empresas"
+  },
+  {
+    "nombre": "Teoría del interés",
+    "codigo": "TINT_M",
+    "creditos": 3,
+    "tipo": ["CO", "EPFELM", "ETO"],
+    "prerrequisitos": ["ADEI"],
+    "area": "Actuaría",
+    "departamento": "Maestría en Ciencias Actuariales"
+  },
+  {
+    "nombre": "Probabilidad para actuaría",
+    "codigo": "PROA_M",
+    "creditos": 3,
+    "tipo": ["CO", "EPFELM", "ETO"],
+    "prerrequisitos": ["PRYE"],
+    "area": "Actuaría",
+    "departamento": "Maestría en Ciencias Actuariales"
+  },
+  {
+    "nombre": "Manejo y exploración de datos",
+    "codigo": "MEDA_M",
+    "creditos": 3,
+    "tipo": ["CO", "EPFELM", "ETO"],
+    "prerrequisitos": ["PRYE"],
+    "area": "Actuaría",
+    "departamento": "Maestría en Ciencias Actuariales"
+  },
+  {
+    "nombre": "Estadística inferencial para actuaría",
+    "codigo": "EIAC_M",
+    "creditos": 3,
+    "tipo": ["CO", "EPFELM", "ETO"],
+    "prerrequisitos": ["PROA_M", "MEDA_M"],
+    "area": "Actuaría",
+    "departamento": "Maestría en Ciencias Actuariales"
+  },
+  {
+    "nombre": "Contingencias de vida 1",
+    "codigo": "CON1_M",
+    "creditos": 3,
+    "tipo": ["CO", "EPFELM", "ETO"],
+    "prerrequisitos": ["PROA_M", "TINT_M"],
+    "area": "Actuaría",
+    "departamento": "Maestría en Ciencias Actuariales"
+  },
+  {
+    "nombre": "departamentoción para el análisis de datos",
+    "codigo": "PGAD_M",
+    "creditos": 3,
+    "tipo": ["CO", "EPFELM", "ETO"],
+    "prerrequisitos": ["PRYE"],
+    "area": "Analytics",
+    "departamento": "Maestría en Ciencia de Datos"
+  },
+  {
+    "nombre": "Modelos estadísticos",
+    "codigo": "MOET_M",
+    "creditos": 3,
+    "tipo": ["CO", "EPFELM", "ETO"],
+    "prerrequisitos": ["PRYE"],
+    "area": "Analytics",
+    "departamento": "Maestría en Ciencia de Datos"
+  },
+  {
+    "nombre": "Big Data",
+    "codigo": "BDAT_M",
+    "creditos": 3,
+    "tipo": ["CO", "EPFELM", "ETO"],
+    "prerrequisitos": ["PRYE"],
+    "area": "Analytics",
+    "departamento": "Maestría en Ciencia de Datos"
+  },
+  {
+    "nombre": "Machine Learning",
+    "codigo": "MLEA_M",
+    "creditos": 3,
+    "tipo": ["CO", "EPFELM", "ETO"],
+    "prerrequisitos": ["PRYE"],
+    "area": "Analytics",
+    "departamento": "Maestría en Ciencia de Datos"
+  },
+  {
+    "nombre": "Gestión de datos",
+    "codigo": "GDAT_M",
+    "creditos": 3,
+    "tipo": ["CO"],
+    "prerrequisitos": ["PRYE"],
+    "area": "Analytics",
+    "departamento": "Maestría en Ciencia de Datos"
+  },
+  {
+    "nombre": "Visuals Analytics con SAS",
+    "codigo": "VSAS_M",
+    "creditos": 3,
+    "tipo": ["CO"],
+    "prerrequisitos": ["PRYE"],
+    "area": "Analytics",
+    "departamento": "Maestría en Ciencia de Datos"
+  },
+  {
+    "nombre": "Análisis Automatizado de Datos mediante Workflows",
+    "codigo": "WOFL_M",
+    "creditos": 3,
+    "tipo": ["CO"],
+    "prerrequisitos": ["PRYE"],
+    "area": "Analytics",
+    "departamento": "Maestría en Ciencia de Datos"
+  },
+  {
+    "nombre": "Ingeniería de Prompt y la Inteligencia Artificial",
+    "codigo": "PROM_M",
+    "creditos": 3,
+    "tipo": ["CO"],
+    "prerrequisitos": ["PRYE"],
+    "area": "Analytics",
+    "departamento": "Maestría en Ciencia de Datos"
+  },
+  {
+    "nombre": "Introducción al Procesamiento de Lenguaje Natural",
+    "codigo": "LENA_M",
+    "creditos": 3,
+    "tipo": ["CO"],
+    "prerrequisitos": ["PRYE"],
+    "area": "Analytics",
+    "departamento": "Maestría en Ciencia de Datos"
+  },
+  {
+    "nombre": "Macroeconomía Intermedia",
+    "codigo": "MAIT_E",
+    "creditos": 3,
+    "tipo": ["CO", "EPFELM", "ETO"],
+    "prerrequisitos": ["FUEC"],
+    "area": "Especialización en Economía para Ingenieros",
+    "departamento": "Especialización en Economía para Ingenieros"
+  },
+  {
+    "nombre": "Economía Pública",
+    "codigo": "EPUB_E",
+    "creditos": 3,
+    "tipo": ["CO"],
+    "prerrequisitos": ["FUEC"],
+    "area": "Especialización en Economía para Ingenieros",
+    "departamento": "Especialización en Economía para Ingenieros"
+  },
+  {
+    "nombre": "Desarrollo Económico",
+    "codigo": "DEEC_E",
+    "creditos": 1,
+    "tipo": ["CO"],
+    "prerrequisitos": ["FUEC"],
+    "area": "Especialización en Economía para Ingenieros",
+    "departamento": "Especialización en Economía para Ingenieros"
+  },
+  {
+    "nombre": "Teoría de Inversión y Portafolio",
+    "codigo": "TIYP_E",
+    "creditos": 3,
+    "tipo": ["CO"],
+    "prerrequisitos": ["FCFI"],
+    "area": "Especialización en Economía para Ingenieros",
+    "departamento": "Especialización en Economía para Ingenieros"
+  },
+  {
+    "nombre": "El poder de la visualización de los datos",
+    "codigo": "PODA_M",
+    "creditos": 2,
+    "tipo": ["CO", "EPFELM", "ETO"],
+    "prerrequisitos": ["AINT"],
+    "area": "Especialización Estrategía, Gestión y Gobierno de datos",
+    "departamento": "Especialización en Estrategia, Gestión y Gobierno de Datos"
+  },
+  {
+    "nombre": "Estrategia y Gestión de datos",
+    "codigo": "ESGE_M",
+    "creditos": 4,
+    "tipo": ["CO", "EPFELM", "ETO"],
+    "prerrequisitos": ["AINT"],
+    "area": "Especialización Estrategía, Gestión y Gobierno de datos",
+    "departamento": "Especialización en Estrategia, Gestión y Gobierno de Datos"
+  },
+  {
+    "nombre": "Seminario Datos e Inteligencia Artificial",
+    "codigo": "SINA_E",
+    "creditos": 1,
+    "tipo": ["CO"],
+    "prerrequisitos": ["AINT"],
+    "area": "Especialización en Estrategia, Gestión y Gobierno de Datos",
+    "departamento": "Especialización en Estrategia, Gestión y Gobierno de Datos"
+  },
+  {
+    "nombre": "Monetización de datos",
+    "codigo": "MOND_M",
+    "creditos": 2,
+    "tipo": ["CO"],
+    "prerrequisitos": ["AINT"],
+    "area": "Especialización Estrategía, Gestión y Gobierno de datos",
+    "departamento": "Especialización en Estrategia, Gestión y Gobierno de Datos"
+  },
+  {
+    "nombre": "Gestión del cambio en entornos “Data Driven”",
+    "codigo": "DRIV_M",
+    "creditos": 2,
+    "tipo": ["CO"],
+    "prerrequisitos": ["AINT"],
+    "area": "Especialización Estrategía, Gestión y Gobierno de datos",
+    "departamento": "Especialización en Estrategia, Gestión y Gobierno de Datos"
+  }
+]

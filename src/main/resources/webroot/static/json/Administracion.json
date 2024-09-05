@@ -1,0 +1,191 @@
+[
+    {
+        "nombre": "Creatividad Tecnología e Innovación",
+        "codigo": "CRTI",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": ["FUEC"],
+        "area": "Emprendimiento de base tecnológica",
+        "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+    },
+    {
+        "nombre": "Iniciativa de Modelos de Negocio",
+        "codigo": "IMON",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": ["FUEC"],
+        "area": "Emprendimiento de base tecnológica",
+        "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+    },
+    {
+        "nombre": "Formalización de Empresa",
+        "codigo": "FORE",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": ["FCFI"],
+        "area": "Emprendimiento de base tecnológica",
+        "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+    },
+    {
+        "nombre": "Marketing 4.0",
+        "codigo": "MKT4",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": ["FMER"],
+        "area": "Emprendimiento de base tecnológica",
+        "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+    },
+    {
+        "nombre": "Fundamentos en Competencias Personales para Líderes de Proyecto",
+        "codigo": "FCLP",
+        "creditos": 3,
+        "tipo": "EPF/ETO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Gerencia de proyectos",
+        "departamento": "Unidad de proyectos"
+    },
+    {
+        "nombre": "Herramientas para la gestión de proyectos",
+        "codigo": "HHGP",
+        "creditos": 3,
+        "tipo": "EPF/ETO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Gerencia de proyectos",
+        "departamento": "Unidad de proyectos"
+    },
+    {
+        "nombre": "Agilidad empresarial",
+        "codigo": "AGIE",
+        "creditos": 3,
+        "tipo": "EPF/ETO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Gerencia de proyectos",
+        "departamento": "Unidad de proyectos"
+    },
+    {
+        "nombre": "Gestión de portafolios de inversión",
+        "codigo": "GPIN",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": ["FCFI"],
+        "area": "Finanzas",
+        "departamento": "Economía"
+    },
+    {
+        "nombre": "Big Data",
+        "codigo": "BDAT_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["PRYE"],
+        "area": "Analytics",
+        "departamento": "Maestría en Ciencia de Datos"
+    },
+    {
+        "nombre": "Startups y desarrollo de negocios",
+        "codigo": "SYDN",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Gerencia de proyectos",
+        "departamento": "Maestría Desarrollo y G. Integral de Proyectos"
+    },
+    {
+        "nombre": "Estrategia de Marketing Digital",
+        "codigo": "EMDI_M",
+        "creditos": 2,
+        "tipo": "CO",
+        "prerrequisitos": ["MAES"],
+        "area": "Especialización en Gerencia de Marketing Digital",
+        "departamento": "Especialización en Gerencia de Marketing Digital"
+    },
+    {
+        "nombre": "Social Media Marketing",
+        "codigo": "SMMA_M",
+        "creditos": 2,
+        "tipo": "CO",
+        "prerrequisitos": ["MAES"],
+        "area": "Especialización en Gerencia de Marketing Digital",
+        "departamento": "Especialización en Gerencia de Marketing Digital"
+    },
+    {
+        "nombre": "Modelos de Analítica y Estrategia de Marketing",
+        "codigo": "MOMA_M",
+        "creditos": 2,
+        "tipo": "CO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Especialización en Gerencia de Marketing Digital",
+        "departamento": "Especialización en Gerencia de Marketing Digital"
+    },
+    {
+        "nombre": "Modelos de Negocios E- Commerce",
+        "codigo": "MNEC_M",
+        "creditos": 2,
+        "tipo": "CO",
+        "prerrequisitos": ["MAES"],
+        "area": "Especialización en Gerencia de Marketing Digital",
+        "departamento": "Especialización en Gerencia de Marketing Digital"
+    },
+    {
+        "nombre": "Neuromarketing",
+        "codigo": "NRMK",
+        "creditos": 2,
+        "tipo": "CO",
+        "prerrequisitos": ["MAES"],
+        "area": "Especialización en Gerencia de Marketing Digital",
+        "departamento": "Especialización en Gerencia de Marketing Digital"
+    },
+    {
+        "nombre": "El poder de la visualización de los datos",
+        "codigo": "PODA_M",
+        "creditos": 2,
+        "tipo": "CO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Especialización Estrategía, Gestión y Gobierno de datos",
+        "departamento": "Especialización Estrategía, Gestión y Gobierno de datos"
+    },
+    {
+        "nombre": "Estrategia y Gestión de datos",
+        "codigo": "ESGE_M",
+        "creditos": 4,
+        "tipo": "CO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Especialización Estrategía, Gestión y Gobierno de datos",
+        "departamento": "Especialización Estrategía, Gestión y Gobierno de datos"
+    },
+    {
+        "nombre": "Seminario Gestión de datos en Inteligencia Artificial",
+        "codigo": "SINA_E",
+        "creditos": 1,
+        "tipo": "CO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Especialización en Estrategia, gestión y gobierno de Datos",
+        "departamento": "Especialización en Estrategia, gestión y gobierno de Datos"
+    },
+    {
+        "nombre": "Conocimiento de los datos y su comportamiento",
+        "codigo": "CDYC_E",
+        "creditos": 4,
+        "tipo": "CO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Especialización Estrategía, Gestión y Gobierno de datos",
+        "departamento": "Especialización Estrategía, Gestión y Gobierno de datos"
+    },
+    {
+        "nombre": "Monetización de datos",
+        "codigo": "MOND_M",
+        "creditos": 2,
+        "tipo": "CO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Especialización Estrategía, Gestión y Gobierno de datos",
+        "departamento": "Especialización Estrategía, Gestión y Gobierno de datos"
+    },
+    {
+        "nombre": "Gestión del cambio en entornos “Data Driven”",
+        "codigo": "DRIV_M",
+        "creditos": 2,
+        "tipo": "CO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Especialización Estrategía, Gestión y Gobierno de datos",
+        "departamento": "Especialización Estrategía, Gestión y Gobierno de datos"
+    }
+]

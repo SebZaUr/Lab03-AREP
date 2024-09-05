@@ -1,0 +1,94 @@
+/* Estilo para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    padding-top: 20px;
+}
+
+/* Estilo para el encabezado */
+header {
+    background-color: #900;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+#title {
+    font-size: 36px;
+    margin: 0;
+}
+
+/* Estilo para las carreras */
+.dropdown h2 {
+    margin-left: 15px;
+    font-size: 24px;
+}
+
+#materias {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+    padding: 10px;
+}
+
+#materias .btn {
+    background-color: #f8f9fa;
+    border: 1px solid #000000  ;
+    color: #900;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+#materias .btn:hover {
+    background-color: #ee5050;
+    color: #fff;
+}
+
+/* Estilo para las tablas */
+#tables {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding: 20px;
+}
+
+.card-header {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.table {
+    background-color: white;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.table thead th {
+    background-color: #900;
+    color: white;
+    text-align: center;
+}
+
+/* Estilo para la paginación */
+.pagination .page-item .page-link {
+    color: #900;
+    border: 1px solid #900;
+}
+
+.pagination .page-item .page-link:hover {
+    background-color: #900;
+    color: white;
+}
+
+/* Adaptaciones responsivas */
+@media (max-width: 768px) {
+    #tables {
+        grid-template-columns: 1fr;
+    }
+}

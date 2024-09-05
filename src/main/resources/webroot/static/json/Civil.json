@@ -1,0 +1,461 @@
+[
+    {
+        "nombre": "Instalaciones para Edificios",
+        "codigo": "IEDI",
+        "creditos": 2,
+        "tipo": "ETO/OGR",
+        "prerrequisitos": ["HSLB"],
+        "area": "Recursos Hidráulicos y Medio Ambiente",
+        "departamento": "Centro de Estudios Hidráulicos"
+    },
+    {
+        "nombre": "Modelación Hidrológica e Hidráulica en Ingeniería",
+        "codigo": "MOHI",
+        "creditos": 3,
+        "tipo": "ETO/OGR",
+        "prerrequisitos": ["HSAP", "HIDG"],
+        "area": "Recursos Hidráulicos y Medio Ambiente",
+        "departamento": "Centro de Estudios Hidráulicos"
+    },
+    {
+        "nombre": "Diseño Hidráulico de Estructuras",
+        "codigo": "DHES",
+        "creditos": 3,
+        "tipo": "ETO/OGR",
+        "prerrequisitos": ["HSLB", "HIDG"],
+        "area": "Recursos Hidráulicos y Medio Ambiente",
+        "departamento": "Centro de Estudios Hidráulicos"
+    },
+    {
+        "nombre": "Diseño Civil",
+        "codigo": "DICI",
+        "creditos": 3,
+        "tipo": "ETO/OGR",
+        "prerrequisitos": ["HSLB", "HIDG", "DICO"],
+        "area": "Recursos Hidráulicos y Medio Ambiente",
+        "departamento": "Centro de Estudios Hidráulicos"
+    },
+    {
+        "nombre": "Adecuación térmica para espacios habitables",
+        "codigo": "ATEH",
+        "creditos": 3,
+        "tipo": "ETO/OGR",
+        "prerrequisitos": ["FCOP", "MFLU"],
+        "area": "Recursos energéticos y calidad del aire",
+        "departamento": "Centro de Estudios Ambientales"
+    },
+    {
+        "nombre": "La Ingeniería Civil ante el calentamiento global",
+        "codigo": "ICCG",
+        "creditos": 3,
+        "tipo": "ETO/OGR",
+        "prerrequisitos": ["HIDG"],
+        "area": "Gestión ambiental y ordenamiento territorial",
+        "departamento": "Centro de Estudios Ambientales"
+    },
+    {
+        "nombre": "Herramientas de modelación en Tránsito y Transporte",
+        "codigo": "HMTT",
+        "creditos": 3,
+        "tipo": "ETO/OGR",
+        "prerrequisitos": ["IDTR", "INTR"],
+        "area": "Vías y Transporte",
+        "departamento": "Vías y Transporte"
+    },
+    {
+        "nombre": "Geomática Avanzada",
+        "codigo": "GEAV",
+        "creditos": 2,
+        "tipo": "ETO/OGR",
+        "prerrequisitos": ["GMAT"],
+        "area": "Vías y Transporte",
+        "departamento": "Vías y Transporte"
+    },
+    {
+        "nombre": "departamentos de Análisis Estructural",
+        "codigo": "PAES",
+        "creditos": 3,
+        "tipo": "ETO/OGR",
+        "prerrequisitos": ["ANAE"],
+        "area": "Estructuras",
+        "departamento": "Centro de estudios de estructuras, materiales y construcción"
+    },
+    {
+        "nombre": "Seguridad y Salud en la Construcción",
+        "codigo": "CERU",
+        "creditos": 3,
+        "tipo": "ETO/OGR",
+        "prerrequisitos": ["FCFI"],
+        "area": "Estructuras - Construcción",
+        "departamento": "Centro de estudios de estructuras, materiales y construcción"
+    },
+    {
+        "nombre": "Estudio de la normativa",
+        "codigo": "ENCD",
+        "creditos": 2,
+        "tipo": "ETO/OGR",
+        "prerrequisitos": ["DICO"],
+        "area": "Estructuras",
+        "departamento": "Centro de estudios de estructuras, materiales y construcción"
+    },
+    {
+        "nombre": "Cátedra Toxement",
+        "codigo": "CTOX",
+        "creditos": 3,
+        "tipo": "ETO/OGR",
+        "prerrequisitos": ["MTCI"],
+        "area": "Construcción - Materiales",
+        "departamento": "Centro de estudios de estructuras, materiales y construcción"
+    },
+    {
+        "nombre": "Creatividad Tecnología e Innovación",
+        "codigo": "CRTI",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": ["FUEC"],
+        "area": "Emprendimiento de base tecnológica",
+        "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+    },
+    {
+        "nombre": "Iniciativa de Modelos de Negocio",
+        "codigo": "IMON",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": ["FUEC"],
+        "area": "Emprendimiento de base tecnológica",
+        "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+    },
+    {
+        "nombre": "Formalización de Empresa",
+        "codigo": "FORE",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": ["FCFI"],
+        "area": "Emprendimiento de base tecnológica",
+        "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+    },
+    {
+        "nombre": "Marketing 4.0",
+        "codigo": "MKT4",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": ["FUEC"],
+        "area": "Emprendimiento de base tecnológica",
+        "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+    },
+    {
+        "nombre": "Fundamentos en Competencias Personales para Líderes de Proyecto",
+        "codigo": "FCLP",
+        "creditos": 3,
+        "tipo": "EPF/ETO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Gerencia de proyectos",
+        "departamento": "Unidad de proyectos"
+    },
+    {
+        "nombre": "Herramientas para la gestión de proyectos",
+        "codigo": "HHGP",
+        "creditos": 3,
+        "tipo": "EPF/ETO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Gerencia de proyectos",
+        "departamento": "Unidad de proyectos"
+    },
+    {
+        "nombre": "Agilidad empresarial",
+        "codigo": "AGIE",
+        "creditos": 3,
+        "tipo": "EPF/ETO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Gerencia de proyectos",
+        "departamento": "Unidad de proyectos"
+    },
+    {
+        "nombre": "Machine Learning",
+        "codigo": "MLEA_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["PRYE"],
+        "area": "Analytics",
+        "departamento": "Maestría en Ciencia de Datos"
+    },
+    {
+        "nombre": "Startups y desarrollo de negocios",
+        "codigo": "SYDN",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Gerencia de proyectos",
+        "departamento": "Maestría Desarrollo y G. Integral de Proyectos"
+    },
+    {
+        "nombre": "Caracterización avanzada de materiales",
+        "codigo": "CAVM_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["IMTCI"],
+        "area": "Materiales y Manufactura",
+        "departamento": "Maestría en Ingeniería Industrial"
+    },
+    {
+        "nombre": "Legislación Ambiental y Desarrollo Sostenible",
+        "codigo": "LADS_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["HSAP"],
+        "area": "Maestría en Ingeniería Civil",
+        "departamento": "Maestría en Ingeniería Civil"
+    },
+    {
+        "nombre": "BIM - Aplicada en Recursos Hidráulicos y Medio Ambiente",
+        "codigo": "BARH_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["HSAP"],
+        "area": "Maestría en Ingeniería Civil",
+        "departamento": "Maestría en Ingeniería Civil"
+    },
+    {
+        "nombre": "Gestión de Residuos Sólidos I",
+        "codigo": "GRS1_M",
+        "creditos": 4,
+        "tipo": "CO",
+        "prerrequisitos": ["INSA"],
+        "area": "Maestría en Ingeniería Civil - Especialización en Saneamiento Ambiental",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Saneamiento Ambiental"
+    },
+    {
+        "nombre": "Control de Enfermedades Transmisibles",
+        "codigo": "CETR_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["PURI"],
+        "area": "Maestría en Ingeniería Civil - Especialización en Saneamiento Ambiental",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Saneamiento Ambiental"
+    },
+    {
+        "nombre": "Temas especiales en tránsito y transporte sostenible",
+        "codigo": "TSOS_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["INTR"],
+        "area": "Vías y Transporte/ Recursos energéticos y calidad del aire/Gestión ambiental y ordenamiento territorial",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Diseño, Construcción y Conservación de Vías"
+    },
+    {
+        "nombre": "Impacto Ambiental y Seguridad Vial",
+        "codigo": "IASE_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["IDTR"],
+        "area": "Vías y Transporte/Ingeniería sanitaria y salud pública",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Diseño, Construcción y Conservación de Vías"
+    },
+    {
+        "nombre": "Diseño y operación de sistemas marítimos y fluviales",
+        "codigo": "DOSM_M",
+        "creditos": 2,
+        "tipo": "CO",
+        "prerrequisitos": ["DGVI"],
+        "area": "Vías y Transporte",
+        "departamento": "Maestría en Ingeniería Civil"
+    },
+    {
+        "nombre": "Epidemiología y Salud Pública",
+        "codigo": "EPIS_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["DGVI"],
+        "area": "Vías y Transporte",
+        "departamento": "Maestría en Ingeniería Civil"
+    },
+    {
+        "nombre": "Comportamiento humano y psicología de conductores",
+        "codigo": "CHPC_M",
+        "creditos": 4,
+        "tipo": "CO",
+        "prerrequisitos": ["IDTR"],
+        "area": "Vías y Transporte",
+        "departamento": "Maestría en Ingeniería Civil"
+    },
+    {
+        "nombre": "Comportamiento del Suelo",
+        "codigo": "COSU_M",
+        "creditos": 4,
+        "tipo": "CO",
+        "prerrequisitos": ["MSUB"],
+        "area": "Geotecnia",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Ingeniería de Fundaciones"
+    },
+    {
+        "nombre": "Investigación del Suelo",
+        "codigo": "INSU_M",
+        "creditos": 2,
+        "tipo": "CO",
+        "prerrequisitos": ["MSUB"],
+        "area": "Geotecnia",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Ingeniería de Fundaciones"
+    },
+    {
+        "nombre": "Métodos numéricos en geotecnia",
+        "codigo": "MNGE_M",
+        "creditos": 4,
+        "tipo": "CO",
+        "prerrequisitos": ["MESA"],
+        "area": "Geotecnia",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Ingeniería de Fundaciones"
+    },
+    {
+        "nombre": "Análisis y diseño de Edificios de Concreto Asistido por Computador",
+        "codigo": "ASCO_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["DICO"],
+        "area": "Estructuras",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Estructuras"
+    },
+    {
+        "nombre": "Diseño Básico de Estructuras Metálicas",
+        "codigo": "DBEM_M",
+        "creditos": 4,
+        "tipo": "CO",
+        "prerrequisitos": ["DICO"],
+        "area": "Estructuras",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Estructuras"
+    },
+    {
+        "nombre": "Comportamiento y Diseño Sísmico de Edificios de Concreto",
+        "codigo": "CDSE_M",
+        "creditos": 4,
+        "tipo": "CO",
+        "prerrequisitos": ["DICO"],
+        "area": "Estructuras",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Estructuras"
+    },
+    {
+        "nombre": "Mecánica Estructural Avanzada y Teoría de la Elasticidad",
+        "codigo": "MECA_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["DICO"],
+        "area": "Estructuras",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Estructuras"
+    },
+    {
+        "nombre": "Diseño de estructuras presforzadas",
+        "codigo": "DPRE_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["DICO"],
+        "area": "Estructuras",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Estructuras"
+    },
+    {
+        "nombre": "Diseño de edificios de muros portantes",
+        "codigo": "DEMP_M",
+        "creditos": 4,
+        "tipo": "CO",
+        "prerrequisitos": ["DICO"],
+        "area": "Estructuras",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Estructuras"
+    },
+    {
+        "nombre": "Técnicas de Reparación y Protección de Estructuras",
+        "codigo": "TRPE_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["DICO"],
+        "area": "Estructuras",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Estructuras"
+    },
+    {
+        "nombre": "Supervisión Técnica",
+        "codigo": "SUPE_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["DICO"],
+        "area": "Estructuras",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Estructuras"
+    },
+    {
+        "nombre": "Coordinación BIM de Proyectos integrada con enfoque geométrico",
+        "codigo": "CBIM_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["COCI", "FDGP"],
+        "area": "Estructuras",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Estructuras"
+    },
+    {
+        "nombre": "BIM - Estructural",
+        "codigo": "EBIM_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["DICO"],
+        "area": "Estructuras",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Estructuras"
+    },
+    {
+        "nombre": "Tecnología avanzada del concreto",
+        "codigo": "TACO_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["DICO", "MTCI"],
+        "area": "Estructuras",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Estructuras"
+    },
+    {
+        "nombre": "Presupuestos y Control de Obras",
+        "codigo": "PYCO_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["COCI", "FDGP"],
+        "area": "Estructuras",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Construcción"
+    },
+    {
+        "nombre": "Construcción de edificios de concreto",
+        "codigo": "COEC_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["COCI", "FDGP"],
+        "area": "Estructuras",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Construcción"
+    },
+    {
+        "nombre": "Construcción Sostenible",
+        "codigo": "CSOS_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["COCI", "FDGP"],
+        "area": "Estructuras",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Construcción"
+    },
+    {
+        "nombre": "Construcción con prefabricados",
+        "codigo": "CPRE_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["COCI", "FDGP"],
+        "area": "Estructuras",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Construcción"
+    },{
+        "nombre": "Maquinaria y Equipo de Construcción",
+        "codigo": "MECO_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["COCI"],
+        "area": "Estructuras",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Construcción"
+    },
+    {
+        "nombre": "Construcción de Obra Blanca",
+        "codigo": "COOB_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": ["DICO"],
+        "area": "Estructuras",
+        "departamento": "Maestría en Ingeniería Civil - Especialización en Construcción"
+    }
+    
+]

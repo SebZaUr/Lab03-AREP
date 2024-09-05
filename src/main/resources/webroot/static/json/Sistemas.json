@@ -1,0 +1,218 @@
+[
+    {
+        "nombre": "Computación Natural",
+        "codigo": "IACN",
+        "creditos": 3,
+        "tipo": "ET0",
+        "prerrequisitos": ["IAIA"],
+        "area": "Ingeniería en Inteligencia Artificial",
+        "departamento": "Ingeniería de Sistemas"
+    },
+    {
+        "nombre": "Fundamentos de la Inteligencia Artificial",
+        "codigo": "IAIA",
+        "creditos": 3,
+        "tipo": "ET0",
+        "prerrequisitos": ["POOB", "MATD"],
+        "area": "Ingeniería en Inteligencia Artificial",
+        "departamento": "Ingeniería de Sistemas"
+    },
+    {
+        "nombre": "Aprendizaje Profundo",
+        "codigo": "IAAP",
+        "creditos": 3,
+        "tipo": "ET0",
+        "prerrequisitos": ["IAIA"],
+        "area": "Ingeniería en Inteligencia Artificial",
+        "departamento": "Ingeniería de Sistemas"
+    },
+    {
+        "nombre": "Ciberseguridad",
+        "codigo": "CIBE_M",
+        "creditos": 4,
+        "tipo": "ET0, OGR",
+        "prerrequisitos": ["SPTI"],
+        "area": "Arquitectura Tecnológica y Seguridad",
+        "departamento": "Maestría en Informática"
+    },
+    {
+        "nombre": "Paradigmas emergentes en computación en la nube",
+        "codigo": "PENU_M",
+        "creditos": 3,
+        "tipo": "ET0, OGR",
+        "prerrequisitos": ["RECO"],
+        "area": "Arquitectura Tecnológica y Seguridad",
+        "departamento": "Maestría en Informática"
+    },
+    {
+        "nombre": "Ciberinteligencia",
+        "codigo": "CIBR_M",
+        "creditos": 3,
+        "tipo": "ET0, OGR",
+        "prerrequisitos": ["SPTI"],
+        "area": "Arquitectura Tecnológica y Seguridad",
+        "departamento": "Maestría en Informática"
+    },
+    {
+        "nombre": "Gestión de incidentes y forensia digital",
+        "codigo": "GIFD(M)",
+        "creditos": 3,
+        "tipo": "ET0, OGR",
+        "prerrequisitos": ["SPTI"],
+        "area": "Arquitectura Tecnológica y Seguridad",
+        "departamento": "Maestría en Informática"
+    },
+    {
+        "nombre": "Generative AI With Large Language Models",
+        "codigo": "GELM_M",
+        "creditos": 3,
+        "tipo": "ET0, OGR",
+        "prerrequisitos": ["PRYE"],
+        "area": "Informática Matemática/ Analytics",
+        "departamento": "Maestría en Informática"
+    },
+    {
+        "nombre": "Aprendizaje Estadístico",
+        "codigo": "APES_M",
+        "creditos": 4,
+        "tipo": "ET0, OGR",
+        "prerrequisitos": ["PRYE"],
+        "area": "Informática Matemática/ Analytics",
+        "departamento": "Maestría en Informática"
+    },
+    {
+        "nombre": "Programación Funcional en Sistemas Distribuidos",
+        "codigo": "PFSD_M",
+        "creditos": 3,
+        "tipo": "ET0, OGR",
+        "prerrequisitos": ["CVDS"],
+        "area": "Ingeniería de Software",
+        "departamento": "Maestría en Informática"
+    },
+    {
+        "nombre": "Ingeniería de Software para IoT y BigData",
+        "codigo": "ISIB_M",
+        "creditos": 3,
+        "tipo": "ET0, OGR",
+        "prerrequisitos": ["CVDS"],
+        "area": "Ingeniería de Software",
+        "departamento": "Maestría en Informática"
+    },
+    {
+        "nombre": "Hiperautomatización",
+        "codigo": "HAUT_M",
+        "creditos": 3,
+        "tipo": "ET0, OGR",
+        "prerrequisitos": ["CVDS"],
+        "area": "Ingeniería de Software",
+        "departamento": "Maestría en Informática"
+    },
+    {
+        "nombre": "Conocimiento de los datos y su comportamiento",
+        "codigo": "CDYC_E",
+        "creditos": 4,
+        "tipo": "ET0, OGR",
+        "prerrequisitos": ["CVDS"],
+        "area": "Sistemas y organizaciones",
+        "departamento": "Especialización en Estrategia, gobierno y gestión de datos"
+    },
+    {
+        "nombre": "Gerencia Estratégica",
+        "codigo": "GESE_M",
+        "creditos": 4,
+        "tipo": "ET0, OGR",
+        "prerrequisitos": ["ARSW"],
+        "area": "Sistemas y organizaciones",
+        "departamento": "Maestría en Gestión de Información"
+    },
+    {
+        "nombre": "Analítica Digital",
+        "codigo": "ANDI_M",
+        "creditos": 3,
+        "tipo": "ET0, OGR",
+        "prerrequisitos": ["ARSW"],
+        "area": "Sistemas y organizaciones",
+        "departamento": "Maestría en Gestión de Información"
+    },
+    {
+        "nombre": "Probabilidad para el Análisis de Datos",
+        "codigo": "PRPA_M",
+        "creditos": 3,
+        "tipo": "ET0, OGR",
+        "prerrequisitos": ["PRYE"],
+        "area": "Analytics",
+        "departamento": "Maestría en Ciencia de Datos"
+    },
+    {
+        "nombre": "Big Data",
+        "codigo": "BDAT_M",
+        "creditos": 3,
+        "tipo": "ET0, OGR",
+        "prerrequisitos": ["PRYE"],
+        "area": "Analytics",
+        "departamento": "Maestría en Ciencia de Datos"
+    },
+    {
+        "nombre": "Machine Learning",
+        "codigo": "MLEA_M",
+        "creditos": 3,
+        "tipo": "ET0, OGR",
+        "prerrequisitos": ["PRYE"],
+        "area": "Analytics",
+        "departamento": "Maestría en Ciencia de Datos"
+    },
+    {
+        "nombre": "Fundamentos en Competencias Personales para Líderes de Proyecto",
+        "codigo": "FCLP",
+        "creditos": 3,
+        "tipo": "EPF/ETO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Gerencia de proyectos",
+        "departamento": "Unidad de proyectos"
+    },
+    {
+        "nombre": "Herramientas para la Gestión de Proyectos",
+        "codigo": "HHGP",
+        "creditos": 3,
+        "tipo": "EPF/ETO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Gerencia de proyectos",
+        "departamento": "Unidad de proyectos"
+    },
+    {
+        "nombre": "Agilidad Empresarial",
+        "codigo": "AGIE",
+        "creditos": 3,
+        "tipo": "EPF/ETO",
+        "prerrequisitos": ["FDGP"],
+        "area": "Gerencia de proyectos",
+        "departamento": "Unidad de proyectos"
+    },
+    {
+        "nombre": "Creatividad, Tecnología e Innovación",
+        "codigo": "CRTI",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": ["FUEC"],
+        "area": "Emprendimiento de base tecnológica",
+        "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+    },
+    {
+        "nombre": "Iniciativa de Modelos de Negocio",
+        "codigo": "IMON",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": ["FUEC"],
+        "area": "Emprendimiento de base tecnológica",
+        "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+    },
+    {
+        "nombre": "Marketing 4.0",
+        "codigo": "MKT4",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": ["FUEC"],
+        "area": "Emprendimiento de base tecnológica",
+        "departamento": "C.E. Gerencia y Transformación Empresarial / Administración de Empresas"
+    }
+]

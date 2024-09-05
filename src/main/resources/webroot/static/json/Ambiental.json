@@ -1,0 +1,209 @@
+[
+  {
+    "nombre": "Instalaciones para Edificios",
+    "codigo": "IEDI",
+    "creditos": 2,
+    "tipo": "ET0/CO",
+    "prerrequisitos": "HSLB",
+    "area": "recursos hidraulicos y medio ambiente",
+    "departamento": "Centro de Estudios Hidraulicos"
+  },
+  {
+    "nombre": "Modelación Hidrológica e Hidráulica en Ingeniería",
+    "codigo": "MOHI",
+    "creditos": 3,
+    "tipo": "ET0/CO",
+    "prerrequisitos": "HSAP y HIDG",
+    "area": "recursos hidraulicos y medio ambiente",
+    "departamento": "Centro de Estudios Hidraulicos"
+  },
+  {
+    "nombre": "Adecuación térmica para espacios habitables",
+    "codigo": "ATEH",
+    "creditos": 3,
+    "tipo": "ET0/CO",
+    "prerrequisitos": "FCOP y MFLU",
+    "area": "recursos energeticos y calidad del aire",
+    "departamento": "Centro de Estudios Ambientales"
+  },
+  {
+    "nombre": "La Ingeniería Civil ante el calentamiento global",
+    "codigo": "ICCG",
+    "creditos": 3,
+    "tipo": "ET0/CO",
+    "prerrequisitos": "HIDG",
+    "area": "gestion ambiental y ordenamiento territorial",
+    "departamento": "Centro de Estudios Ambientales"
+  },
+  {
+    "nombre": "Creatividad Tecnología e Innovación",
+    "codigo": "CRTI",
+    "creditos": 3,
+    "tipo": "ETO",
+    "prerrequisitos": "FUEC",
+    "area": "emprendimiento de base tecnologica",
+    "departamento": "C.E. Gerencia y Transformacion Empresarial / Administracion de Empresas"
+  },
+  {
+    "nombre": "Iniciativa de Modelos de Negocio",
+    "codigo": "IMON",
+    "creditos": 3,
+    "tipo": "ETO",
+    "prerrequisitos": "FUEC",
+    "area": "emprendimiento de base tecnologica",
+    "departamento": "C.E. Gerencia y Transformacion Empresarial / Administracion de Empresas"
+  },
+  {
+    "nombre": "Formalización de Empresa",
+    "codigo": "FORE",
+    "creditos": 3,
+    "tipo": "ETO",
+    "prerrequisitos": "FCFI",
+    "area": "emprendimiento de base tecnologica",
+    "departamento": "C.E. Gerencia y Transformacion Empresarial / Administracion de Empresas"
+  },
+  {
+    "nombre": "Marketing 4.0",
+    "codigo": "MKT4",
+    "creditos": 3,
+    "tipo": "ETO",
+    "prerrequisitos": "FUEC",
+    "area": "emprendimiento de base tecnologica",
+    "departamento": "C.E. Gerencia y Transformacion Empresarial / Administracion de Empresas"
+  },
+  {
+    "nombre": "Fundamentos en Competencias Personales para Líderes de Proyecto",
+    "codigo": "FCLP",
+    "creditos": 3,
+    "tipo": "EPF/ETO",
+    "prerrequisitos": "FDGP",
+    "area": "gerencia de proyectos",
+    "departamento": "Unidad de proyectos"
+  },
+  {
+    "nombre": "Herramientas para la gestión de proyectos",
+    "codigo": "HHGP",
+    "creditos": 3,
+    "tipo": "EPF/ETO",
+    "prerrequisitos": "FDGP",
+    "area": "gerencia de proyectos",
+    "departamento": "Unidad de proyectos"
+  },
+  {
+    "nombre": "Agilidad empresarial",
+    "codigo": "AGIE",
+    "creditos": 3,
+    "tipo": "EPF/ETO",
+    "prerrequisitos": "FDGP",
+    "area": "gerencia de proyectos",
+    "departamento": "Unidad de proyectos"
+  },
+  {
+    "nombre": "Gestión de datos",
+    "codigo": "GDAT_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": "PRYE",
+    "area": "maestria en ciencia de datos",
+    "departamento": ""
+  },
+  {
+    "nombre": "Startups y desarrollo de negocios",
+    "codigo": "SYDN",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": "FDGP",
+    "area": "gerencia de proyectos",
+    "departamento": "Maestria Desarrollo y G. Integral de Proyectos"
+  },
+  {
+    "nombre": "Hidráulica e Hidrología Computacional",
+    "codigo": "HEHC_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": "HIDG",
+    "area": "maestria en ingenieria civil - especializacion en recursos hidraulicos y medio ambiente",
+    "departamento": ""
+  },
+  {
+    "nombre": "Legislación Ambiental y Desarrollo Sostenible",
+    "codigo": "LADS_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": "HIDG",
+    "area": "maestria en ingenieria civil",
+    "departamento": ""
+  },
+  {
+    "nombre": "BIM - Aplicada en Recursos Hidráulicos y Medio Ambiente",
+    "codigo": "BARH_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": "HIDG",
+    "area": "maestria en ingenieria civil",
+    "departamento": ""
+  },
+  {
+    "nombre": "Gestión de Residuos Sólidos I",
+    "codigo": "GRS1_M",
+    "creditos": 4,
+    "tipo": "CO",
+    "prerrequisitos": "TRAR",
+    "area": "maestria en ingenieria civil - especializacion en saneamiento ambiental",
+    "departamento": ""
+  },
+  {
+    "nombre": "Control de Enfermedades Transmisibles",
+    "codigo": "CETR_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": "SAPU",
+    "area": "maestria en ingenieria civil - especializacion en saneamiento ambiental",
+    "departamento": ""
+  },
+  {
+    "nombre": "Temas especiales en tránsito y transporte sostenible",
+    "codigo": "TSOS_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": "DESO",
+    "area": "vias y transporte",
+    "departamento": "Maestria en Ingenieria Civil - Especializacion en Diseño, Construccion y Conservacion de Vias"
+  },
+  {
+    "nombre": "Impacto Ambiental y Seguridad Vial",
+    "codigo": "IASE_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": "GYLA y SAPU",
+    "area": "vias y transporte",
+    "departamento": "Maestria en Ingenieria Civil - Especializacion en Diseño, Construccion y Conservacion de Vias"
+  },
+  {
+    "nombre": "Diseño y operación de sistemas marítimos y fluviales",
+    "codigo": "DOSM_M",
+    "creditos": 2,
+    "tipo": "CO",
+    "prerrequisitos": "GYLA",
+    "area": "vias y transporte",
+    "departamento": "Maestria en Ingenieria Civil"
+  },
+  {
+    "nombre": "Epidemiología y Salud Pública",
+    "codigo": "EPIS_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": "SAPU",
+    "area": "vias y transporte",
+    "departamento": "Maestria en Ingenieria Civil"
+  },
+  {
+    "nombre": "Construcción Sostenible",
+    "codigo": "CSOS_M",
+    "creditos": 3,
+    "tipo": "CO",
+    "prerrequisitos": "DESO",
+    "area": "maestria en ingenieria civil - especializacion en construccion",
+    "departamento": ""
+  }
+]

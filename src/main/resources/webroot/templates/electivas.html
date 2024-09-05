@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>ECIOFERTA</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="style.css" rel="stylesheet" type="text/css">
+        <link type="text/css" rel="stylesheet" href="bootstrap.min.css"/>
+        <script src="cliente.js"></script>
+    </head>
+    <body>
+        <header id="header">
+            <h1 id="title">Electivas</h1>
+        </header>
+        <div class="dropdown">
+            <h2>Carreras: </h2>
+            <hr>
+            <div id="materias">
+                <button class="btn btn-light" id="Administracion" onclick="getCourses('Administracion')" data-color='#AC19A7'>Administración de Empresas</button>
+                <button class="btn btn-light" id="Economia" onclick="getCourses('Economia')" data-color='#1685F3'>Economía</button>
+                <button class="btn btn-light" id="Ambiental" onclick="getCourses('Ambiental')" data-color='#3BFF24'>Ingeniería Ambiental</button>
+                <button class="btn btn-light" id="Biomedica" onclick="getCourses('Biomedica')" data-color='#71F8FC'>Ingeniería Biomédica</button>
+                <button class="btn btn-light" id="Civil" onclick="getCourses('Civil')" data-color='#FF1700'>Ingeniería Civil</button>
+                <button class="btn btn-light" id="Electrica" onclick="getCourses('Electrica')" data-color='#460283'>Ingeniería Eléctrica</button>
+                <button class="btn btn-light" id="Electronica" onclick="getCourses('Electronica')" data-color='#0010CE'>Ingeniería Electronica</button>
+                <button class="btn btn-light" id="Estadistica" onclick="getCourses('Estadistica')" data-color='#026F00'>Ingeniería Estadistica</button>
+                <button class="btn btn-light" id="Industrial" onclick="getCourses('Industrial')" data-color='#FFE400'>Ingeniería Industrial</button>
+                <button class="btn btn-light" id="Mecanica" onclick="getCourses('Mecanica')" data-color='#AC19A7'>Ingeniería Mecánica</button>
+                <button class="btn btn-light" id="Sistemas" onclick="getCourses('Sistemas')" data-color='#61D600'>Ingeniería de Sistemas</button>
+                <button class="btn btn-light" id="Matematicas" onclick="getCourses('Matematicas')" data-color='#041178'>Matemáticas</button>
+            </div>
+        </div>
+        <div id="tables">
+            <div class="col-md-8">
+                <div class="card-header">
+                    <h5>Listado de electivas</h5>
+                </div>
+                <div class="card-body">
+                    <table id="courseTable" class="table table-striped" >
+                        <h3 id="text"></h3>
+                        <thead>
+                        <tr>
+                            <th>Asignatura</th>
+                            <th>Código</th>
+                            <th>Creditos</th>
+                            <th>Tipo</th>
+                            <th>Requisitos</th>
+                            <th>Área</th>
+                            <th>Departamento</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                    <nav aria-label="Page navigation example">
+                        <ul class="pagination justify-content-center">
+                            <li class="page-item">
+                                <a id="previous" class="page-link" href="#" tabindex="-1" aria-disabled="false" onclick="nextCourses('previous')" data-page="0">Previous</a>
+                            </li>
+                            <li class="page-item">
+                                <a id="next" class="page-link" href="#" tabindex="3" aria-disabled="false" onclick="nextCourses('next')" data-page="1">Next</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+
+            <div class="col-md-8">
+                <div class="card-header">
+                    <h5>Tipos de Electivas</h5>
+                </div>
+                <table id="types" class="table table-striped table-bordered">
+                    <thead>
+                        <tr>
+                            <th scope="col">Tipo de Electiva</th>
+                            <th scope="col">Código</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>Electiva de Profundización</td>
+                        <td>EPF</td>
+                    </tr>
+                    <tr>
+                        <td>Electiva Técnica</td>
+                        <td>ETO</td>
+                    </tr>
+                    <tr>
+                        <td>Electiva Humanística</td>
+                        <td>ELH</td>
+                    </tr>
+                    <tr>
+                        <td>Electiva Libre</td>
+                        <td>ELI</td>
+                    </tr>
+                    <tr>
+                        <td>Curso Libre</td>
+                        <td>CLE</td>
+                    </tr>
+                    <tr>
+                        <td>Electiva de Ciencias Básicas</td>
+                        <td>ELCB</td>
+                    </tr>
+                    <tr>
+                        <td>Electiva Económica Administrativa</td>
+                        <td>ELEA</td>
+                    </tr>
+                    <tr>
+                        <td>Electiva en Ciencias Naturales</td>
+                        <td>ELNA</td>
+                    </tr>
+                    <tr>
+                        <td>Electiva Matemática</td>
+                        <td>ELM</td>
+                    </tr>
+                    <tr>
+                        <td>Electiva de Programa</td>
+                        <td>ELPR</td>
+                    </tr>
+                    <tr>
+                        <td>Electiva Coterminal</td>
+                        <td>CO</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
+    </body>
+</html>

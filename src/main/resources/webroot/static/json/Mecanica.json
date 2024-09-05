@@ -1,0 +1,137 @@
+[
+    {
+        "nombre": "Creatividad Tecnología e Innovación",
+        "codigo": "CRTI",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": "FUEC",
+        "area": "emprendimiento de base tecnologica",
+        "departamento": "C.E. Gerencia y Transformacion Empresarial / Administracion de Empresas"
+    },
+    {
+        "nombre": "Iniciativa de Modelos de Negocio",
+        "codigo": "IMON",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": "FUEC",
+        "area": "emprendimiento de base tecnologica",
+        "departamento": "C.E. Gerencia y Transformacion Empresarial / Administracion de Empresas"
+    },
+    {
+        "nombre": "Formalización de Empresa",
+        "codigo": "FORE",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": "FCFI",
+        "area": "emprendimiento de base tecnologica",
+        "departamento": "C.E. Gerencia y Transformacion Empresarial / Administracion de Empresas"
+    },
+    {
+        "nombre": "Marketing 4.0",
+        "codigo": "MKT4",
+        "creditos": 3,
+        "tipo": "ETO",
+        "prerrequisitos": "FMER",
+        "area": "emprendimiento de base tecnologica",
+        "departamento": "C.E. Gerencia y Transformacion Empresarial / Administracion de Empresas"
+    },
+    {
+        "nombre": "Fundamentos en Competencias Personales para Líderes de Proyecto",
+        "codigo": "FCLP",
+        "creditos": 3,
+        "tipo": "EPF/ETO",
+        "prerrequisitos": "FDGP",
+        "area": "gerencia de proyectos",
+        "departamento": "Unidad de proyectos"
+    },
+    {
+        "nombre": "Herramientas para la gestión de proyectos",
+        "codigo": "HHGP",
+        "creditos": 3,
+        "tipo": "EPF/ETO",
+        "prerrequisitos": "FDGP",
+        "area": "gerencia de proyectos",
+        "departamento": "Unidad de proyectos"
+    },
+    {
+        "nombre": "Agilidad empresarial",
+        "codigo": "AGIE",
+        "creditos": 3,
+        "tipo": "EPF/ETO",
+        "prerrequisitos": "FDGP",
+        "area": "gerencia de proyectos",
+        "departamento": "Unidad de proyectos"
+    },
+    {
+        "nombre": "Experimentación aplicada en ingeniería",
+        "codigo": "EXAI_M",
+        "creditos": 4,
+        "tipo": "CO",
+        "prerrequisitos": "PRYE",
+        "area": "maestria en ingenieria mecanica",
+        "departamento": ""
+    },
+    {
+        "nombre": "Recuperación y Reutilización de Materiales",
+        "codigo": "REMA_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": "FECO",
+        "area": "materiales y manufactura",
+        "departamento": "Maestria en Ingenieria Mecanica"
+    },
+    {
+        "nombre": "Optimización del Diseño Inteligente",
+        "codigo": "OPDI_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": "MELF",
+        "area": "diseño de elementos y sistemas mecanicos",
+        "departamento": "Maestria en Ingenieria Mecanica"
+    },
+    {
+        "nombre": "Aerodinámica Vehicular",
+        "codigo": "AEVE_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": "DINA",
+        "area": "ingenieria de vehiculos de competicion",
+        "departamento": "Maestria en Ingenieria Mecanica"
+    },
+    {
+        "nombre": "Integridad, riesgo y mantenimiento centrado en confiabilidad",
+        "codigo": "IRMC_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": "GAMA",
+        "area": "gestion de activos y mantenimiento",
+        "departamento": "Maestria en Ingenieria Mecanica"
+    },
+    {
+        "nombre": "Startups y desarrollo de negocios",
+        "codigo": "SYDN_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": "FDGP",
+        "area": "gerencia de proyectos",
+        "departamento": "Maestria Desarrollo y G. Integral de Proyectos"
+    },
+    {
+        "nombre": "Caracterización avanzada de materiales",
+        "codigo": "CAVM_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": "MNMT",
+        "area": "materiales y manufactura",
+        "departamento": "Maestria en Ingenieria Industrial"
+    },
+    {
+        "nombre": "Optimización de Procesos de Fabricación",
+        "codigo": "OPFA_M",
+        "creditos": 3,
+        "tipo": "CO",
+        "prerrequisitos": "FECO",
+        "area": "materiales y manufactura",
+        "departamento": "Maestria en Ingenieria Industrial"
+    }
+]
